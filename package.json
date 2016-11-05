@@ -1,0 +1,19 @@
+{
+  "name": "league-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": "true",
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "league": "./index.js"
+  },
+  "author": "fbguillo",
+  "license": "ISC"
+}
