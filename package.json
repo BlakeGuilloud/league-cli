@@ -1,7 +1,7 @@
 {
   "name": "league-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A League of Legends command line tool",
   "main": "index.js",
   "preferGlobal": "true",
   "dependencies": {
